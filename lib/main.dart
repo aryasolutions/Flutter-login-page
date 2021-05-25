@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
                               border: OutlineInputBorder(),
                               hintText: "Password"),
                         ),
-                        SizedBox(height: 10),
+                        SizedBox(height: 20),
                         TextButton(
                           onPressed: () {},
                           child: Text('TextButton'),
